@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdileneRodri
 - 👀 I’m interested in becoming a software engineer.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on python projects.
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me: adilenerodriguez74@gmail.com
 
 <!---
